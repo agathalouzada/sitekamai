@@ -1,5 +1,5 @@
 body{
-    background-color:#F0F8FF ;
+    background-color: firebrick;
 }
 
 img{
@@ -8,3 +8,19 @@ img{
 figure{
     text-align: center;
 }
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color: black;
+     
+}
+p{
+   font-size: 40px;
+}
+
+
+
