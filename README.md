@@ -1,3 +1,3 @@
 # sitekamai
 sitekamai
-git config --global user.name "Your Name"
+https://agathalouzada.github.io/sitekamai/
