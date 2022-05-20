@@ -38,5 +38,11 @@ p{
 .fundo_letras{
     background-image: linear-gradient(to right, rgba(236, 19, 12, 0.678) , rgb(54, 36, 36));
 }
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 2em;
+}
+
 
 
