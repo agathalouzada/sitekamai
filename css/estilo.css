@@ -44,5 +44,43 @@ h1{
     font-size: 2em;
 }
 
+footer p{
+    font-size: 2em;
+    text-align: center;
+}
+ 
+.menu, footer{
+   margin: 2.5em;
+   background-color: rgba(216, 27, 21, 0.705);
+}
+
+.itens_menu{
+    text-align: center;
+    font-size: 0.7cm;
+}
+
+.itens_menu a:link {
+    color: rgb(241, 81, 81);
+  }
+.itens_menu a:visited {
+    color: #000000d8;
+  }
+.itens_menu a:hover {
+    color: hotpink;
+  }
+.itens_menua:active {
+    color: rgb(185, 15, 58);
+  }
+
+ section{
+     margin-top: 2%;
+     margin-bottom: 2%;
+ }
+ 
+ h1{
+     margin-top: 1%;
+     margin-bottom: 1%;
+ }
+      
 
 
