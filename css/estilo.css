@@ -60,15 +60,18 @@ footer p{
 }
 
 .itens_menu a:link {
-    color: rgb(241, 81, 81);
+    text-decoration: none;
+    color: azure;
   }
+  
+  
 .itens_menu a:visited {
     color: #000000d8;
   }
 .itens_menu a:hover {
     color: hotpink;
   }
-.itens_menua:active {
+.itens_menu :active {
     color: rgb(185, 15, 58);
   }
 
@@ -101,4 +104,8 @@ footer p{
     width: 20%;
     margin-right:1.5%;
     margin-top: 1.5%;
+}
+
+.p{
+    margin: 10%;
 }
